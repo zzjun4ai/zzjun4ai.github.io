@@ -3,7 +3,7 @@
 ## Highlights
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/paper/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">Nat. Comm.</div><img src='images/paper/labind.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LABind: identifying protein binding ligand-aware sites via learning interactions between ligand and protein](https://doi.org/10.1038/s41467-025-62899-0) \\
